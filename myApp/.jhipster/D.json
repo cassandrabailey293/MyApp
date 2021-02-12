@@ -1,0 +1,17 @@
+{
+  "name": "D",
+  "fields": [],
+  "relationships": [],
+  "changelogDate": "20210212175351",
+  "entityTableName": "d",
+  "dto": "no",
+  "pagination": "no",
+  "service": "no",
+  "jpaMetamodelFiltering": false,
+  "fluentMethods": true,
+  "readOnly": false,
+  "embedded": false,
+  "clientRootFolder": "MyApp",
+  "applications": ["myApp"],
+  "microserviceName": "MyApp"
+}
